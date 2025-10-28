@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src=""  />
+  <img src="https://github.com/rojas435/rojas-435/blob/master/Banner.png?raw?true"  />
 </div>
 
 ###
@@ -11,7 +11,7 @@
 ###
 
 
-<h4 align="center">Innovative software engineer with a passion for open-source contributions and developing scalable, high-performance solutions. 💻 Adept in leveraging GitHub for collaborative coding, project management, and continuous integration/continuous deployment (CI/CD). 🚀 Strong advocate for code quality, test-driven development, and best practices in software engineering. 🌟 Dedicated to exploring new technologies, contributing to the developer community, and fostering a culture of collaboration and innovation. 🌐</h4>
+<h4 align="center"> Systems Engineer with a strong foundation in artificial intelligence and software development, experienced in supporting graduate-level research and teaching. Recognized for combining analytical thinking with clear communication and a collaborative mindset to facilitate learning and innovation in academic environments. Skilled at coordinating postgraduate programs and mentoring students in data-driven projects, fostering teamwork, adaptability, and a commitment to continuous improvement.</h4>
 
 ###
 
